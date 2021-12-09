@@ -2,7 +2,7 @@ DATA-SCIENCE_PROJECT--4
 
 Customer Review Analysis for Leading Women Clothing E-Commerce Company.
 
-Business Description: One of the leading women clothing e-commerce company would like to analyze the customer’s behavior by analyzing customer’s demographics and reviews submitted on the Website.
+Business Description: One of the leading women clothing e-commerce companies would like to analyze the customer’s behavior by analyzing customer’s demographics and reviews submitted on the Website.
 
 Solution Data Pipelines
 1)  Import essential packages for data preprocessing, text classification and Natural Language Processing then read respective data file.
@@ -27,6 +27,6 @@ Solution Data Pipelines
 
 11)  Build the different models such as Naive Bayes, Logistic Regression & Linear SVC with different vectors (Count Vector & TF-IDF) to get higher accuracy.
 
-12)  Again for Dimensionality Reduction we need to implement Topic Modeling. It is used to classify text in a document to a particular topic. And then, to train LDA (LatentDirichletAllocation) model.
+12)  Again, for Dimensionality Reduction we need to implement Topic Modeling. It is used to classify text in a document to a particular topic. And then, to train LDA (LatentDirichletAllocation) model.
 
 13) To implement Predictive Modelling we apply Machine Learning Techniques such as Logistic Regression and Linear model for better precision and higher accuracy.
