@@ -27,6 +27,6 @@ Solution Data Pipelines
 
 11)  Build the different models such as Naive Bayes, Logistic Regression & Linear SVC with different vectors (Count Vector & TF-IDF) to get higher accuracy.
 
-12)  Again, for Dimensionality Reduction we need to implement Topic Modeling. It is used to classify text in a document to a particular topic. And then, to train LDA (LatentDirichletAllocation) model.
+12)  Again, for Dimensionality Reduction we need to implement Topic Modeling. It is used to classify text in a document to a particular topic. And then, to train LDA (LatentDirichletAllocation) model to extracted the result as Topic Summaries.
 
-13) To implement Predictive Modelling we apply Machine Learning Techniques such as Logistic Regression and Linear model for better precision and higher accuracy.
+13) To implement Predictive Modelling we apply Machine Learning Techniques such as Logistic Regression and Linear model for both train & test dataset to get better precision and higher accuracy.
